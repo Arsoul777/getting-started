@@ -1,6 +1,9 @@
 {
-    "name": "getting_started",
+    "name": "getting-started",
     "scripts": {
         "dev": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
     }
 }
