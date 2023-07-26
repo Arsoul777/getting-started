@@ -1,0 +1,6 @@
+{
+    "name": "getting_started",
+    "scripts": {
+        "dev": "node server.js"
+    }
+}
